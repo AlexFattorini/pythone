@@ -12,7 +12,7 @@ while domanda == "sì":
 
 
 if conteggio > 0:
-    media = somma / conteggio
-    print(f"La media dei numeri inseriti è: {media}")
+   
+    print("La media dei numeri inseriti è: ", somma/conteggio)
 else:
     print("Non sono stati inseriti numeri.")
